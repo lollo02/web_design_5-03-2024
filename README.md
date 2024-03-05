@@ -6,6 +6,8 @@ Progetto di web design
 
 Linee guida progetto
 
+Alcuni elementi elencati non sono stati implementati
+
 # Implementazione
 
 Registrazione:
@@ -20,13 +22,13 @@ Registrazione:
 
 -Telefono*
 
--Password (livello di sicurezza adeguato agli standard moderni)
+-Password
 
 -Conferma password
 
 *non obbligatorio
 
-Sarà possibile registrarsi anche con google.
+Sarà possibile registrarsi anche con google. 
 
 Arriva la mail e l’utente conferma.
 
@@ -38,7 +40,7 @@ Verrà messo a schermo un avviso/consiglio contenente delle istruzioni per rende
 
 -password
 
--password dimenticata 
+password dimenticata (link che porta alla pagina del recupero della password)
 
 
 # Recupero password
