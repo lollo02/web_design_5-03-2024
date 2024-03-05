@@ -14,8 +14,8 @@
 
             <h1>Log-in</h1>
 
-            <label for="email">Email</label><br>
-            <input type="email" name="email" placeholder="inserisci la tua email" required>
+            <label for="email">Email/Nome utente</label><br>
+            <input type="email" name="email" placeholder="inserisci la tua email o nome utente" required>
 
             <label for="pass">Password</label><br>
             <input type="password" name="pass" placeholder="inserisci la tua password" maxlength="24" minlength="6"
