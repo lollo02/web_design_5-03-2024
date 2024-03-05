@@ -40,7 +40,10 @@
                 minlength="6" required>
             <input type="submit" name="submit" id="submit_button" value="Invia"><br>
 
-            <a href="./form_di_login.php">Hai già un account?</a>
+            <a href="./form_di_login.php">Hai già un account?</a><br><br>
+
+            
+            <label>* campi opzionali</label>
         </form>
     </div>
     <script src="./registration.js"></script>
