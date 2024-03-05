@@ -3,20 +3,35 @@
 Progetto di web design 
 
 (Cavicchia Samuel S5225277, Romano Yuri S5231931, Parodi Aurora S5216444)
+
 Linee guida progetto
+
 Implementazione
+
 Registrazione
+
 Nome
+
 Cognome
+
 Nome utente*
+
 Email
+
 Telefono*
+
 Password (livello di sicurezza adeguato agli standard moderni)
+
 Conferma password
+
 *non obbligatorio
+
 Sarà possibile registrarsi anche con google.
+
 Arriva la mail e l’utente conferma.
+
 Verrà messo a schermo un avviso/consiglio contenente delle istruzioni per rendere più sicura la password da creare (es: non inserire il proprio nome/cognome, data di nascita o altri dati sensibili e facilmente reperibili)
+
 Login
 
 nome utente o email
