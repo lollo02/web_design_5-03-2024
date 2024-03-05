@@ -23,7 +23,6 @@
 
             <label for="email">Email</label>
             <input type="email" name="email" id="email" placeholder="inserisci la tua email" maxlength="100" required>
-            <label for="email" id="emailEsistente">Questa mail è gia in uso</label>
 
             <label for="email">Nome utente*</label>
             <input type="email" name="username" id="username" placeholder="inserisci il tuo nome utente" maxlength="100">
@@ -33,8 +32,8 @@
 
             <label for="pass">Password</label>
             <input type="password" name="pass" id="pass" placeholder="inserisci la password" maxlength="24"
-                minlength="6" required>
-            <p>Non inserire la stessa password della tua mail.</p>
+                minlength="6" required><br>
+            <label>Non inserire dati sensibili nella password.</label><br><br>
 
             <label for="confirm">Ripeti password</label>
             <input type="password" name="confirm" id="confirm" placeholder="ripeti la password" maxlength="24"

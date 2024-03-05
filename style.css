@@ -26,14 +26,15 @@ label {
 
 input {
   margin-top: 5px;
-  width: 100%;
+  width: 90%;
   height: 15px;
-  border: 1px solid #eaeaea;
+  border: 1px solid lightgrey;
   outline: none;
   border-radius: 8px;
   text-indent: 10px;
   color: black;
   margin-bottom: 10px;
+  background:lightgrey;
 }
 
 input::placeholder {
@@ -42,11 +43,6 @@ input::placeholder {
 
 a {
   color: white;
-}
-
-#emailEsistente {
-  display: none;
-  color: red;
 }
 
 #submit_button {
