@@ -1,6 +1,6 @@
 # web_design_5-03-2024
 
-Progetto di web design
+Progetto di web design \n
 (Cavicchia Samuel S5225277, Romano Yuri S5231931, Parodi Aurora S5216444)
 Linee guida progetto
 Implementazione
