@@ -6,7 +6,7 @@ Progetto di web design
 
 Linee guida progetto
 
-Implementazione
+#Implementazione
 
 Registrazione
 
